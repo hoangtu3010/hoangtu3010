@@ -37,6 +37,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hoangtu3010/hoangtu3010/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/hoangtu3010/hoangtu3010/output/snake.svg" alt="Snake animation" />
 
 ###
